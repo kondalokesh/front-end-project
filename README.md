@@ -1,4 +1,4 @@
 # front-end-project
 front end project using portfolio
 <br>
-Author - konda lokesh
+Author - konda lokesh(LPU)
